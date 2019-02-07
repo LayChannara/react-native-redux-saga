@@ -1,0 +1,6 @@
+const constants = {
+	FETCH_USER_START: 'FETCH_USER_START',
+	FETCH_USER_SUCCESS: 'FETCH_USER_SUCCESS',
+	FETCH_USER_FAILED: 'FETCH_USER_FAILED',
+}
+export default constants
